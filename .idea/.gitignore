@@ -8,3 +8,22 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# Vite cache
+.vite/
+
+# tool caches
+.cache/
+
+# environment files
+.env
+.env.local
+
+# system files
+.DS_Store
